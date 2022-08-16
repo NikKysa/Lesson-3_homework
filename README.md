@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @NikKysa
+- 👀 I’m beginner in IT field, just starting to study programming. 
+- 🌱 I’m currently learning programming from Geekbrains.
+- 💞️ I hope in near future to be a good specialist in Phyton.
+- 📫 How to reach me Saint-Petersburg, Russia
