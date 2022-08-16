@@ -36,8 +36,8 @@
 
 18. "Cd название папки" менят папку Git, без этого изменения не будут сохраняться.
 
-Команды "git remote add origin ссылка", "git branch -M main" и "git push -u origin main" объединяют git и github, закидывает в github уже проделанную работу из git'а.
+19. Команды "git remote add origin ссылка", "git branch -M main" и "git push -u origin main" объединяют git и github, закидывает в github уже проделанную работу из git'а.
 
-Команда "git push" толкает информацию из gitа в github. 
+20. Команда "git push" толкает информацию из gitа в github. 
 
-Команда "git pull" тянет из github в git информацию.
+21. Команда "git pull" тянет из github в git информацию.
